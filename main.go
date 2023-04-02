@@ -9,8 +9,9 @@ import (
 	"github.com/hajimehoshi/ebiten/v2/ebitenutil"
 )
 
+// const creation
 const (
-	screenWidth   = 1080
+	screenWidth   = 1280
 	screenHeight  = 720
 	particleCount = 1000
 )
